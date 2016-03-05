@@ -12,3 +12,7 @@ Meteor Admin 中文版
 * lib：公共模块  
 * private：私有模块  
 * public：公共资源  
+
+
+#### 3. Source ####
+yinfx:admin-zh：[https://github.com/yinfxs/meteor-admin-zh.git](https://github.com/yinfxs/meteor-admin-zh.git)   
